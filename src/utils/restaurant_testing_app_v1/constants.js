@@ -1,0 +1,9 @@
+export const BASE_URL = "http://34.230.35.229:8081/generated_app"; //Enter Backend URL here
+export const PATH_REORDER = "/Reorders";
+export const PATH_PRODUCTCATEGORY = "/ProductCategories";
+export const PATH_PURCHASEORDER = "/PurchaseOrders";
+export const PATH_PRODUCTSTORE = "/ProductStores";
+export const PATH_VENDOR = "/Vendors";
+export const PATH_DOCUMENT = "/Documents";
+export const PATH_PRODUCTCATALOGUE = "/ProductCatalogues";
+export const PATH_INVENTORYSTOCK = "/InventoryStocks";
